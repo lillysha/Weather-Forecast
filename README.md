@@ -10,6 +10,7 @@ A sleek, responsive web application that displays real-time weather information 
 -  Displays current weather and 5-day forecast
 -  Shows temperature, humidity, pressure, and wind speed
 -  Responsive and modern user interface
+-  
   
 ---
 
@@ -61,5 +62,6 @@ weather-forecast-app/
 ├── index.css # Styling file
 ├── script.js # JavaScript logic
 ├── README.md # This file
+
 
 
